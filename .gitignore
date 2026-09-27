@@ -1,0 +1,8 @@
+.env
+.venv/
+data/synthetic_bedtime_screentime.csv
+bin/
+artifacts/
+__pycache__/
+*.pyc
+.DS_Store
